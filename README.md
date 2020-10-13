@@ -1,4 +1,4 @@
-# Hi there 👋
+![alt text](http://url/to/img.png)
 
 ### - 🖥️ I’m currently working on Web Design
 ### - 📖 I’m currently learning NodeJS

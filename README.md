@@ -3,16 +3,22 @@
 
 
 ### 🖥️  I’m currently working on:
-####   - Web design
-####   -
+####   -- Web design
 
-### 📖  I’m currently learning 
+### 📖  I’m currently learning:
 ####   -- NodeJS
 ####   -- AJAX
-####   --
+####   -- SASS
+
+### 💡 My Skills:
+####   -- Python
+####   -- HTML
+####   -- CSS
+####   -- JavaScript
 
 ### 📫  How to reach me: 
-####  - [Gmail](mailto:adamc.barnard1@gmail.com)
+####   -- [Gmail](mailto:adamc.barnard1@gmail.com)
 
 ### - ⚡ Fun facts: 
-####   - I've been coding for 4 years.
+####   -- I've been coding for 4 years.
+####   -- In school for a Bachelor's Degree in Computer Science

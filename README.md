@@ -4,6 +4,7 @@
 
 ### 🖥️  I’m currently working on:
 ####   -- Web design
+####   -- Python
 
 ### 📖  I’m currently learning:
 ####   -- NodeJS

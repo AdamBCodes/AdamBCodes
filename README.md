@@ -19,6 +19,6 @@
 ### 📫  How to reach me: 
 ####   -- [Gmail](mailto:adamc.barnard1@gmail.com)
 
-### - ⚡ Fun facts: 
+### ⚡ Fun facts: 
 ####   -- I've been coding for 4 years.
 ####   -- In school for a Bachelor's Degree in Computer Science

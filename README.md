@@ -7,8 +7,6 @@
 #### - Web design
 #### -
 
-</br>
-
 ### 📖  I’m currently learning 
 #### -NodeJS
 

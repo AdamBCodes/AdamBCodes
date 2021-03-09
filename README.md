@@ -8,8 +8,7 @@
 
 ### 📖  I’m currently learning:
 ####   -- NodeJS
-####   -- AJAX
-####   -- SASS
+####   -- ReactJS
 
 ### 💡 My Skills:
 ####   -- Python

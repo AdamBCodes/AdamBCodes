@@ -7,8 +7,7 @@
 ####   -- Python
 
 ### 📖  I’m currently learning:
-####   -- NodeJS
-####   -- ReactJS
+####   -- Python Flask
 
 ### 💡 My Skills:
 ####   -- Python
@@ -18,7 +17,3 @@
 
 ### 📫  How to reach me: 
 ####   -- [Gmail](mailto:adamc.barnard1@gmail.com)
-
-### ⚡ Fun facts: 
-####   -- I've been coding for 4 years.
-####   -- In school for a Bachelor's Degree in Computer Science

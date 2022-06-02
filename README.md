@@ -5,12 +5,14 @@
 ### 🖥️  I’m currently working on:
 ####   -- Web design
 ####   -- Python
+####   -- Flask
 
 ### 📖  I’m currently learning:
-####   -- Python Flask
+####   -- SQL
 
 ### 💡 My Skills:
 ####   -- Python
+####   -- Flask
 ####   -- HTML
 ####   -- CSS
 ####   -- JavaScript

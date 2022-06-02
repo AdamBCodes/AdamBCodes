@@ -6,6 +6,7 @@
 ####   -- Web design
 ####   -- Python
 ####   -- Flask
+####   -- JavaScript
 
 ### 📖  I’m currently learning:
 ####   -- SQL

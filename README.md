@@ -8,9 +8,6 @@
 ####   -- Flask
 ####   -- JavaScript
 
-### 📖  I’m currently learning:
-####   -- SQL
-
 ### 💡 My Skills:
 ####   -- Python
 ####   -- Flask
